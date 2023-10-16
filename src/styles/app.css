@@ -1,0 +1,14 @@
+.app {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(74, 69, 69);
+
+}
+
+.nassa-logo {
+  margin: auto;
+  padding-bottom: 10px;
+  width: 350px;
+  height: 250px;
+}
